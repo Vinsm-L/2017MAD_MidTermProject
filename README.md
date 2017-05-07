@@ -10,7 +10,7 @@
 * Live tiles 
 
 ## 功能
-天气app，主要功能是天气查询，辅助功能是查找城市返回地图、查找城市实时路况、输入提示，通过调用高德的API实现。高德开放平台：http://lbs.amap.com/dev/key/app  我已经注册了key（5fd3b8bd943a505ccfec387943bba945），调用API时可直接使用。
+天气app，主要功能是天气查询，辅助功能是查找城市返回地图、查找城市实时路况，通过调用高德的API实现。高德开放平台：http://lbs.amap.com/dev/key/app  我已经注册了key（5fd3b8bd943a505ccfec387943bba945），调用API时可直接使用。
 所调用的API及它们之间的关系：
 
 | 功能 | API |
